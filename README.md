@@ -1,2 +1,3 @@
-# Mijae-Bio
-Welcome to my git description!
+# Info:
+
+Hellooo my name is MijaeLio
